@@ -1,3 +1,4 @@
+array = [2, 3, 4, 5]
 
 def find_element_index(array, value_to_find)
   count = 0
