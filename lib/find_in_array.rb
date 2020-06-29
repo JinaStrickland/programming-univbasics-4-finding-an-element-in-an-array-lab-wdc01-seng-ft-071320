@@ -1,4 +1,4 @@
-array = [2, 3, 4, 5]
+#array = [2, 3, 4, 5]
 
 def find_element_index(array, value_to_find)
   count = 0
@@ -10,4 +10,4 @@ def find_element_index(array, value_to_find)
   end
 end
 
-find_element_index(array, 3)
+#find_element_index(array, 3)
