@@ -10,8 +10,10 @@ def find_element_index(array, value_to_find)
   end
 end
 
-#find_element_index(array, 3)
+=begin
+find_element_index(array, 3)
 
 def find_element_index(array, value_to_find)
   array.index(value_to_find)
 end
+=end
